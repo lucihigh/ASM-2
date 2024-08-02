@@ -1,0 +1,11 @@
+C:\Users\X1\source\repos\Tu_Hoc_C\WaterBillApp\bin\Debug\WaterBillApp.exe.config
+C:\Users\X1\source\repos\Tu_Hoc_C\WaterBillApp\bin\Debug\WaterBillApp.exe
+C:\Users\X1\source\repos\Tu_Hoc_C\WaterBillApp\bin\Debug\WaterBillApp.pdb
+C:\Users\X1\source\repos\Tu_Hoc_C\WaterBillApp\obj\Debug\WaterBillApp.csproj.AssemblyReference.cache
+C:\Users\X1\source\repos\Tu_Hoc_C\WaterBillApp\obj\Debug\WaterBillApp.Form1.resources
+C:\Users\X1\source\repos\Tu_Hoc_C\WaterBillApp\obj\Debug\WaterBillApp.Properties.Resources.resources
+C:\Users\X1\source\repos\Tu_Hoc_C\WaterBillApp\obj\Debug\WaterBillApp.csproj.GenerateResource.cache
+C:\Users\X1\source\repos\Tu_Hoc_C\WaterBillApp\obj\Debug\WaterBillApp.csproj.CoreCompileInputs.cache
+C:\Users\X1\source\repos\Tu_Hoc_C\WaterBillApp\obj\Debug\WaterBillApp.exe
+C:\Users\X1\source\repos\Tu_Hoc_C\WaterBillApp\obj\Debug\WaterBillApp.pdb
+C:\Users\X1\source\repos\Tu_Hoc_C\WaterBillApp\obj\Debug\WaterBillApp.LoginForm.resources
